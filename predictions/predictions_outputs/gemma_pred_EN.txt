@@ -1,0 +1,30 @@
+EN_UA_DEV_100012.txt	The article is talking about urw, discrediting the west, diplomacy, and the west does not care about ukraine, only about its interests.
+EN_CC_200040.txt	The article is talking about climate change, criticism of climate movement.
+EN_CC_200070.txt	The article is talking about cc, criticism of institutions and authorities, and criticism of political organizations and figures.
+EN_UA_DEV_100034.txt	The text praises the West for its support to Ukraine and its efforts to help the country to win the war against Russia. The text also praises the West
+EN_CC_200049.txt	The article is talking about climate change, questioning the measurements and science.
+EN_UA_DEV_100033.txt	The text presents a series of statements by Russian state TV hosts, which are interpreted as a sign of the Russian army's collapse. The hosts are presented as desperate and willing to use nuclear weapons to achieve their goals.<
+EN_CC_200036.txt	"""“rain bombs” and “boiling oceans”"
+EN_CC_200079.txt	The article is talking about cc, criticism of institutions and authorities, and criticism of international entities.
+EN_UA_DEV_100029.txt	The text presents a series of arguments that show the Russian army is collapsing, such as the lack of motivation of the soldiers, the lack of equipment, the lack of training, the lack of leadership, the lack of strategic objectives, the lack of precision munitions, the lack of air defense, the lack of artillery, the lack of rocket artillery, the lack of armor, the lack of ammunition, the lack of command and control, the lack of protection, the lack of sustainment, the lack of small unit leaders, the lack of effective small unit leaders, the lack of proper equipment, the lack of ability to command and control, the lack of ability to protect, the lack of ability to sustain, the lack of ability to command and control, the lack of ability to protect, the lack of ability to sustain, the lack of ability to command and control, the lack of ability to protect, the lack of ability to sustain, the lack of ability to command and control, the lack of ability to protect, the lack of ability to sustain, the lack of ability to command and control, the lack of ability to protect, the lack of ability to sustain, the lack of ability to command and control, the lack of ability to protect, the lack of ability to sustain,
+EN_UA_DEV_20.txt	The article is talking about urw, discrediting ukraine, and situation in ukraine is hopeless.
+EN_UA_DEV_100005.txt	The text is full of criticism towards the West, and the author claims that the West is the one that is prolonging the war in Ukraine, and that the West is the one that is responsible for the war.<|endof
+EN_CC_200033.txt	The article is talking about climate change, criticism of climate movement.
+EN_CC_200071.txt	The article is talking about cc, criticism of climate policies, and climate policies have negative impact on the economy.
+EN_CC_200046.txt	The article is talking about cc, climate change is beneficial, and co2 is beneficial.
+EN_UA_DEV_100026.txt	The article is talking about urw, negative consequences for the west, and sanctions imposed by western countries will backfire.
+EN_UA_DEV_215.txt	The article is talking about urw, discrediting ukraine, and discrediting ukrainian government and officials and policies.
+EN_CC_200054.txt	The text presents the European Central Bank as a powerful group that is using the climate agenda to ban cryptocurrencies and implement a Central Bank Digital Currency (CBDC) that would allow the government to control
+EN_UA_DEV_100013.txt	The article is talking about urw, discrediting ukraine, and discrediting ukrainian government and officials and policies.
+EN_CC_200077.txt	The article is talking about cc, criticism of climate policies, and climate policies are only for profit.
+EN_CC_200034.txt	"""The climate movement is a cult, and it’s time to call it out"
+EN_UA_DEV_213.txt	The article is talking about urw, blaming the war on others rather than the invader, and the west are the aggressors.
+EN_CC_200047.txt	The text presents a narrative that blames global elites for the climate crisis, by showing that they are the ones who support the WEF's plan to ration gas, electricity, and
+EN_CC_200081.txt	The article is talking about cc, controversy about green technologies, and renewable energy is dangerous.
+EN_UA_DEV_214.txt	The text presents a narrative that discredits the West, diplomacy and the US, by claiming that the US is losing the war in Ukraine and that it is trying to expand the war to Asia.
+EN_CC_200064.txt	The article is talking about climate change, criticism of climate movement.
+EN_UA_DEV_22.txt	The article is talking about urw, discrediting the west, diplomacy, and the eu is divided.
+EN_CC_200035.txt	The text criticizes the Michigan governor for her decision to make the state fleet 100% electric by 2040, which is seen as a waste of money and a bad decision.
+EN_CC_200069.txt	The article is talking about climate change, criticism of climate policies.
+EN_CC_200065.txt	The article is talking about cc, criticism of climate movement, and climate movement is alarmist.
+EN_UA_DEV_100002.txt	"""Ukrainian army is collapsing""""."

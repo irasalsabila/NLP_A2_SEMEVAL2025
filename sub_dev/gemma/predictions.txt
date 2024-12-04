@@ -1,0 +1,184 @@
+A9_BG_3970.txt	The article is talking about urw, amplifying war-related fears, and by continuing the war we risk wwiii.
+A9_BG_4076.txt	The article is talking about ukraine-russia war, discrediting the west, diplomacy.
+A9_BG_8427.txt	The article is talking about urw, russia is the victim, and the west is russophobic.
+A9_BG_3819.txt	"Зеленски предупреждава, че Русия ще продължи да се разширява и ще атакува други страни, ако не бъде спряна в Украйна.
+
+The main narrative of the article is ""URW"
+A9_BG_2592.txt	The article is talking about urw, discrediting ukraine, and discrediting ukrainian government and officials and policies.
+BG_245.txt	Учените са категорични, че светът ще се затопли фатално и това ще доведе до катастрофални последици за човечеството и планетата ни.<|endof
+BG_909.txt	The article is talking about cc, green policies are geopolitical instruments, and green activities are a form of neo-colonialism.
+BG_1178.txt	"В текста се разказва за ужасяващите горещини, които ще настъпят през 2023 г. и за това как ще се отрази на хората.
+
+The main"
+A9_BG_2828.txt	The article is talking about ukraine-russia war, discrediting the west, diplomacy.
+BG_1169.txt	The article is talking about cc, downplaying climate change, and weather suggests the trend is global cooling.
+BG_73.txt	The article is talking about cc, amplifying climate fears, and amplifying existing fears of global warming.
+A9_BG_4093.txt	The article is talking about urw, discrediting ukraine, and ukraine is a puppet of the west.
+BG_125.txt	The article is talking about cc, amplifying climate fears, and amplifying existing fears of global warming.
+A9_BG_3964.txt	The article is talking about urw, discrediting ukraine, and ukraine is a puppet of the west.
+BG_63.txt	The article is talking about climate change, amplifying climate fears.
+A9_BG_2663.txt	The article is talking about ukraine-russia war, amplifying war-related fears.
+BG_1146.txt	The article is talking about climate change, amplifying climate fears.
+A9_BG_2756.txt	The article is talking about urw, blaming the war on others rather than the invader, and ukraine is the aggressor.
+BG_979.txt	"В текста се критикува движението за борба с изменението на климата, като се твърди, че то е религия, която е обрекла човечеството на нещастие.
+
+The main narrative of"
+BG_277.txt	The article is talking about cc, hidden plots by secret schemes of powerful groups, and blaming global elites.
+BG_950.txt	В статията се описва как електрическите автобуси в Швеция са спрени заради студените температури, което е в противоречие с идеята за
+BG_1455.txt	The article is talking about cc, amplifying climate fears, and amplifying existing fears of global warming.
+A9_BG_4110.txt	The article is talking about urw, russia is the victim, and the west is russophobic.
+A9_BG_4026.txt	The article is talking about urw, amplifying war-related fears, and there is a real possibility that nuclear weapons will be employed.
+A9_BG_2707.txt	The article is talking about ukraine-russia war, amplifying war-related fears.
+A9_BG_2569.txt	The article is talking about urw, discrediting ukraine, and ukraine is associated with nazism.
+A9_BG_4039.txt	The article is talking about ukraine-russia war, negative consequences for the west.
+BG_212.txt	The article is talking about cc, amplifying climate fears, and amplifying existing fears of global warming.
+EN_UA_DEV_100012.txt	The article is talking about urw, discrediting the west, diplomacy, and the west does not care about ukraine, only about its interests.
+EN_CC_200040.txt	The article is talking about climate change, criticism of climate movement.
+EN_CC_200070.txt	The article is talking about cc, criticism of institutions and authorities, and criticism of political organizations and figures.
+EN_UA_DEV_100034.txt	The text praises the West for its support to Ukraine and its efforts to help the country to win the war against Russia. The text also praises the West
+EN_CC_200049.txt	The article is talking about climate change, questioning the measurements and science.
+EN_UA_DEV_100033.txt	The text presents a series of statements by Russian state TV hosts, which are interpreted as a sign of the Russian army's collapse. The hosts are presented as desperate and willing to use nuclear weapons to achieve their goals.<
+EN_CC_200036.txt	"“rain bombs” and “boiling oceans” 
+
+ Al Gore, Bill Clinton's former vice president, condemned ""greenhouse gas pollution"" for ""boiling the oceans"" and causing ""rain bombs,"" whatever those are supposed to be. The result, Gore further claimed, is an onslaught of ""climate refugees"" with nowhere to go except straight through America's borders, illegally.
+
+Calling it a ""climate crisis,"" Gore blasted so-called ""fossil fuels"" for polluting the planet with carbon dioxide (CO2), which he says is creating a ""planetary crisis"" that will ultimately lead to ""mass extinction"" by ""really putting humanity's future at risk.""
+
+Gore would know about fossil fuel use, seeing as how he uses lots and lots of it – much more than the average person, in"
+EN_CC_200079.txt	The article is talking about cc, criticism of institutions and authorities, and criticism of international entities.
+EN_UA_DEV_100029.txt	The text presents a series of arguments that show the Russian army is collapsing, such as the lack of motivation of the soldiers, the lack of equipment, the lack of training, the lack of leadership, the lack of strategic objectives, the lack of precision munitions, the lack of air defense, the lack of artillery, the lack of rocket artillery, the lack of armor, the lack of ammunition, the lack of command and control, the lack of protection, the lack of sustainment, the lack of small unit leaders, the lack of effective small unit leaders, the lack of proper equipment, the lack of ability to command and control, the lack of ability to protect, the lack of ability to sustain, the lack of ability to command and control, the lack of ability to protect, the lack of ability to sustain, the lack of ability to command and control, the lack of ability to protect, the lack of ability to sustain, the lack of ability to command and control, the lack of ability to protect, the lack of ability to sustain, the lack of ability to command and control, the lack of ability to protect, the lack of ability to sustain, the lack of ability to command and control, the lack of ability to protect, the lack of ability to sustain,
+EN_UA_DEV_20.txt	The article is talking about urw, discrediting ukraine, and situation in ukraine is hopeless.
+EN_UA_DEV_100005.txt	The text is full of criticism towards the West, and the author claims that the West is the one that is prolonging the war in Ukraine, and that the West is the one that is responsible for the war.<|endof
+EN_CC_200033.txt	The article is talking about climate change, criticism of climate movement.
+EN_CC_200071.txt	The article is talking about cc, criticism of climate policies, and climate policies have negative impact on the economy.
+EN_CC_200046.txt	The article is talking about cc, climate change is beneficial, and co2 is beneficial.
+EN_UA_DEV_100026.txt	The article is talking about urw, negative consequences for the west, and sanctions imposed by western countries will backfire.
+EN_UA_DEV_215.txt	The article is talking about urw, discrediting ukraine, and discrediting ukrainian government and officials and policies.
+EN_CC_200054.txt	The text presents the European Central Bank as a powerful group that is using the climate agenda to ban cryptocurrencies and implement a Central Bank Digital Currency (CBDC) that would allow the government to control
+EN_UA_DEV_100013.txt	The article is talking about urw, discrediting ukraine, and discrediting ukrainian government and officials and policies.
+EN_CC_200077.txt	The article is talking about cc, criticism of climate policies, and climate policies are only for profit.
+EN_CC_200034.txt	"The climate movement is a cult, and it’s time to call it out
+
+The climate movement is a cult, and it’s time to call it out
+
+The climate movement is a cult, and it’s time to call it out
+
+The climate movement is a cult, and it’s time to call it out
+
+The climate movement is a cult, and it’s time to call it out
+
+The climate movement is a cult, and it’s time to call it out
+
+The climate movement is a cult, and it’s time to call it out
+
+The climate movement is a cult, and it’s time to call it out
+
+The climate movement is a cult, and it’s time to call it out
+
+The climate movement is a cult, and it’s time to call it out
+
+The climate movement is a cult, and it’s time to call"
+EN_UA_DEV_213.txt	The article is talking about urw, blaming the war on others rather than the invader, and the west are the aggressors.
+EN_CC_200047.txt	The text presents a narrative that blames global elites for the climate crisis, by showing that they are the ones who support the WEF's plan to ration gas, electricity, and
+EN_CC_200081.txt	The article is talking about cc, controversy about green technologies, and renewable energy is dangerous.
+EN_UA_DEV_214.txt	The text presents a narrative that discredits the West, diplomacy and the US, by claiming that the US is losing the war in Ukraine and that it is trying to expand the war to Asia.
+EN_CC_200064.txt	The article is talking about climate change, criticism of climate movement.
+EN_UA_DEV_22.txt	The article is talking about urw, discrediting the west, diplomacy, and the eu is divided.
+EN_CC_200035.txt	The text criticizes the Michigan governor for her decision to make the state fleet 100% electric by 2040, which is seen as a waste of money and a bad decision.
+EN_CC_200069.txt	The article is talking about climate change, criticism of climate policies.
+EN_CC_200065.txt	The article is talking about cc, criticism of climate movement, and climate movement is alarmist.
+EN_UA_DEV_100002.txt	"Ukrainian army is collapsing"".
+
+The text presents a narrative that the Ukrainian army is collapsing, and that the Ukrainian people are being fed"
+HI_26.txt	The article is talking about ukraine-russia war, praise of russia.
+HI_160.txt	The article is talking about urw, blaming the war on others rather than the invader, and the west are the aggressors.
+HI_51.txt	The article is talking about urw, discrediting the west, diplomacy, and the west does not care about ukraine, only about its interests.
+HI_114.txt	"रूस के द्वारा यूक्रेन पर रासायनिक हथियारों का इस्तेमाल करने के बाद अमेरिका और फ्रांस बौखला उठे हैं। अमेरिका और फ्रांस ने रूस को धमकी दी है कि अगर रूस ने ताकत दिखाई और यूक्रेन ने कहा तो फ्रांस अपनी जमीनी सेना उतार देगा।
+
+The main narrative of"
+HI_152.txt	"Russia has international support from a number of countries and people"".
+
+The main paragraphs that reflect the narrative are paragraphs 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30,"
+HI_35.txt	The article is talking about urw, distrust towards media, and western media is an instrument of propaganda.
+HI_134.txt	इस लेख में जलवायु परिवर्तन के कारण मौसम में होने वाले बदलावों को लेकर चिंता जताई गई है। यह कहा गया है कि जलवायु परिवर्तन के कारण भारत में ऋतुओं में बदलाव देखा जा रहा है। सर्दी के मौसम पर यह विशेष रूप से दिख रहा है। क्लाइ
+HI_71.txt	The article is talking about ukraine-russia war, blaming the war on others rather than the invader.
+HI_19.txt	"Hidden plots by secret schemes of powerful groups"".
+
+The main narrative is reflected in the text through several paragraphs that"
+HI_139.txt	The article is talking about cc, amplifying climate fears, and amplifying existing fears of global warming.
+HI_126.txt	यह लेख यूक्रेन-रूस युद्ध के संदर्भ में पश्चिमी देशों की नीतियों की आलोचना करता है। यह पश्चिमी देशों को रूस से दूरी बनाने के लिए भारत को प्रेरित करने के लिए उनकी नीतियों की आलोचना करता है। यह पश्चिमी
+HI_151.txt	The article is talking about urw, praise of russia, and russia has international support from a number of countries and people.
+HI_125.txt	"Discrediting the West, Diplomacy"".
+
+The main paragraphs that reflect the narrative are paragraphs 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26,"
+HI_97.txt	The article is talking about ukraine-russia war, speculating war outcomes.
+HI_143.txt	The article is talking about cc, amplifying climate fears, and amplifying existing fears of global warming.
+HI_156.txt	The article is talking about urw, amplifying war-related fears, and there is a real possibility that nuclear weapons will be employed.
+HI_75.txt	यह रिपोर्ट रूस-यूक्रेन युद्ध में शामिल भारतीय युवक प्रिंस सेबेस्टियन की आपबीती बताती है। वह रूस में एक सिक्योरिटी की नौकरी के लिए गया था, लेकिन उसे रूस-यूक्रेन युद्ध में शामिल होने के लिए मजबूर किया गया था। वह यूक्रे
+HI_5.txt	इस लेख में यूक्रेन के लिए पश्चिमी देशों द्वारा दी जाने वाली सहायता के बारे में बताया गया है। यह सहायता रूस के खिलाफ यूक्रेन की लड़ाई में मदद करने के लिए है। यह सहायता रूस के खिलाफ यूक्रेन की लड़ाई में मदद करने के लिए है। यह सहायता रूस के खिलाफ यूक्रेन की लड़ाई
+HI_154.txt	इस लेख में, रूस और यूक्रेन के बीच युद्ध के परिणामों को बढ़ा-चढ़ाकर पेश किया गया है। यह दावा किया गया है कि युद्ध के परिणामस्वरूप दुनिया तीन हिस्सों में बंट जाएगी और एक तीसरा खेमा भी होगा जिसमें भारत भी शामिल होगा
+HI_28.txt	The article is talking about ukraine-russia war, hidden plots by secret schemes of powerful groups.
+HI_107.txt	The article is talking about urw, amplifying war-related fears, and by continuing the war we risk wwiii.
+HI_159.txt	The article is talking about urw, praise of russia, and praise of russian military might.
+HI_110.txt	The article is talking about urw, amplifying war-related fears, and russia will also attack other countries.
+HI_158.txt	यह रिपोर्ट यूक्रेन को रूस के खिलाफ युद्ध के लिए जिम्मेदार ठहराती है और रूस को एक पीड़ित के रूप में प्रस्तुत करती है। यह रूस के खिलाफ यूक्रेनी हमले के बारे में भी बात करता है और रूस को यूक्रेन में घुसपैठ करने के लिए मजबूर करने के लिए यूक
+HI_140.txt	यह रिपोर्ट जलवायु परिवर्तन के कारण होने वाले नुकसान के बारे में चेतावनी देती है और यह बताती है कि
+HI_38.txt	यह रिपोर्ट रूस और भारत के बीच संबंधों को लेकर है। रिपोर्ट में रूस के राष्ट्रपति व्लादिमीर पुतिन और प्रधानमंत्री नरेंद्र मोदी के बीच संबंधों को लेकर बात की
+HI_4.txt	The article is talking about urw, praise of russia, and russia has international support from a number of countries and people.
+HI_95.txt	"Amplifying war-related fears"".
+
+The main paragraphs that convey the narrative are paragraphs 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47,"
+HI_34.txt	"यूक्रेन ने रूस को रोकने के लिए 10000 किलोमीटर की किलेबंदी करने की योजना बनाई है।
+
+The main narrative of the article is"
+PT_208.txt	O texto apresenta uma série de dados que mostram o impacto da atividade humana na Caatinga, um bioma que é 100% brasileiro e que, apesar disso, tem recebido pouca atenção por parte das políticas públicas de preservação. O texto também apresenta dados que mostram o impacto da crise climática no bioma, e que, se não forem tomadas medidas, pode provocar perdas significativas na flora em 99% do bioma
+PT_216.txt	"O texto critica a regulamentação do mercado de carbono no Brasil, que, segundo o autor, não considera a diferença entre lixeiras e aterros sanitários, o que pode trazer prejuízos ao país.
+
+The main narrative of the article is"
+PT_233.txt	The article is talking about cc, amplifying climate fears, and amplifying existing fears of global warming.
+PT_259.txt	The article is talking about urw, discrediting ukraine, and discrediting ukrainian government and officials and policies.
+PT_220.txt	The article is talking about cc, amplifying climate fears, and amplifying existing fears of global warming.
+PT_254.txt	"A Rússia afirma que as sanções internacionais impostas ao país por causa da guerra na Ucrânia pouparam o país de um apagão cibernético global, que afetou voos, caminhos-de-ferro e estações de TV. A Rússia afirma que a falha global nos sistemas da Microsoft não afetou os trabalhos do governo federal russo e que a situação com a Microsoft mostra a importância da substituição de importações de software estrangeiro.
+
+<"
+PT_211.txt	The article is talking about cc, amplifying climate fears, and amplifying existing fears of global warming.
+PT_250.txt	The article is talking about urw, praise of russia, and russia has international support from a number of countries and people.
+PT_224.txt	The article is talking about cc, criticism of institutions and authorities, and criticism of national governments.
+PT_228.txt	O texto apresenta uma série de afirmações que reforçam o medo do aquecimento global, como a perda do Pantanal até ao final do
+PT_253.txt	A Rússia é apresentada como a vítima de uma invasão da Ucrânia, que é apoiada pela UE e pelos países do G7. A Rússia é apresentada como a vítima de um roubo de bens por parte da UE e dos países
+PT_232.txt	"Amplifying existing fears of global warming"". The narrative is reflected in the document through a detailed description of the heat wave, including its effects on people and the environment, as well as the measures taken by the government to deal with"
+PT_206.txt	"Brasil pode ajudar países a trilhar caminhos mais responsáveis
+
+A ministra do Ambiente e das Alterações Climáticas, Marina Silva, defende que o Brasil pode, para além de promover mudanças internas como acabar com a desflorestação, reduzir as emissões de gases com efeito de estufa e promover uma transição das atividades produtivas para uma economia mais sustentável, também ajudar outros países a trilhar caminhos mais responsáveis.
+
+“Podemos dar um contributo na geração de energia, incluindo a produção de hidrogénio verde para os países que não têm a mesma facilidade que nós. Temos um grande potencial com a nossa biodiversidade, tanto na produção de produtos da bioeconomia, como na bioeconomia de alta tecnologia,"
+PT_249.txt	"O texto apresenta a Rússia como um país que está aberto a qualquer iniciativa que possa pôr fim ao conflito na Ucrânia, mas que não vê reciprocidade por parte de Kiev.
+
+The main narrative of the article is"
+PT_205.txt	The article is talking about cc, amplifying climate fears, and amplifying existing fears of global warming.
+PT_230.txt	O texto apresenta uma série de informações que reforçam o medo de que as alterações climáticas estejam a provocar um aumento de temperaturas no Brasil, com consequências para a saúde e para a vida em geral.<
+PT_244.txt	A Rússia acusa a França de ser russófoba e de não respeitar os direitos dos jornalistas, ao retirar a credencial a quatro jornalistas russos que cobriam os Jogos Olímpicos de Paris.<|end
+PT_213.txt	The article is talking about cc, criticism of institutions and authorities, and criticism of international entities.
+PT_226.txt	"O Brasil não tem sismos, tufões ou furacões. É um país privilegiado nestes aspetos. A situação, porém, está a mudar. A elevada ocorrência de desastres naturais, bem como a complexidade e o efeito cumulativo dessas emergências, têm aumentado o número de pessoas e bens afetados por desastres naturais, com perdas económicas e com um número cada vez maior de vítimas no país. E a tragédia no Vale do Taquari é uma mostra do que a natureza é capaz.
+
+Neste cenário, é premente alargar a capacidade nacional, dos estados e dos municípios, para fazer face a estas situações, com prioridade para a criação de uma agenda pública e de uma força de assistência humanitária. É comum ouvir-se que não se pode comparar o Brasil com outros países, devido à dimensão e às desigual"
+PT_221.txt	O texto critica a lei da União Europeia que visa combater a desflorestação, alegando que esta pode levar a que os agricultores, na sua maioria de pequena escala, sejam forçados a expandir-se para as áreas florestais para aumentar a produção de forma a sobreviver.<|
+PT_234.txt	O texto apresenta uma análise científica que indica que a Amazónia pode chegar ao ponto de não retorno até 2050, o que traria impacto
+PT_207.txt	"O senador Zequinha Marinho (Podemos-PA) criticou, em pronunciamento na quarta-feira (28), a decisão da União Europeia (UE) de adiar para 2025 a obrigatoriedade de os agricultores preservarem 4% da vegetação nativa das suas terras, além de flexibilizar esta determinação, dispensando os produtores que se comprometam a destinar pelo menos 7% de área a culturas que fixem azoto na terra. Em contrapartida, o parlamentar salientou que os agricultores da Amazónia são obrigados a preservar ou fazer uma reserva legal de 80% da sua área.
+
+""Como a hipocrisia é alguma coisa que não podemos compreender com esta turma. Não querem cumprir 4%, mas exigem que os brasileiros"
+PT_217.txt	"O que é a cúpula de calor? Entenda fenómeno que ‘prende’ o ar quente em algumas regiões
+
+A onda de calor extremo por que passam algumas zonas do Brasil começa finalmente a dissipar-se, mas Estados como São Paulo e Rio de Janeiro ainda enfrentam uma sexta-feira muito quente. As temperaturas a rondar os 40ºC durante dias sucessivos foram provocadas por aquilo a que os especialistas chamam de domo de calor, ou cúpula de calor. Mas, afinal, o que é o domo de calor?
+
+“É um fenómeno que ocorre quando uma área de alta pressão permanece durante algum tempo na mesma região, prendendo ar quente”, explica a divulgadora científica Karina Bruno Lima, doutoranda em Climatologia pela Universidade Federal do Rio Grande do Sul (UFRGS).
+
+As ondas de calor tornaram-se mais frequ"
+PT_229.txt	"Analyze the document and provide a detailed explanation (at least 80 words) showing how the narrative is reflected in the document.
+
+###"
+PT_225.txt	"O Brasil é um país que tem uma grande diversidade de culturas e tradições, e isso é refletido na sua culinária. A culinária brasileira é conhecida por ser saborosa e colorida, e por utilizar ingredientes frescos e de qualidade.
+
+Uma das características mais marcantes da culinária brasileira é a sua diversidade regional. Cada região do país tem a sua própria culinária, com pratos típicos e ingredientes locais. Por exemplo, no Nordeste, a culinária é marcada pela influência africana e indígena, com pratos como o acarajé e o vatapá. No Sul, a culinária é mais influenciada pela imigração italiana e alemã, com pratos como o churrasco e o pão de queijo.
+
+Além disso, a culinária brasileira é conhecida por ser saborosa e colorida, e por utilizar ingredientes frescos e de qualidade. Os pratos brasileiros são geralmente bem"

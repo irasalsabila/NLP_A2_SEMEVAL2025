@@ -1,0 +1,29 @@
+HI_26.txt	The article is talking about ukraine-russia war, praise of russia.
+HI_160.txt	The article is talking about urw, blaming the war on others rather than the invader, and the west are the aggressors.
+HI_51.txt	The article is talking about urw, discrediting the west, diplomacy, and the west does not care about ukraine, only about its interests.
+HI_114.txt	"""रूस के द्वारा यूक्रेन पर रासायनिक हथियारों का इस्तेमाल करने के बाद अमेरिका और फ्रांस बौखला उठे हैं। अमेरिका और फ्रांस ने रूस को धमकी दी है कि अगर रूस ने ताकत दिखाई और यूक्रेन ने कहा तो फ्रांस अपनी जमीनी सेना उतार देगा।"
+HI_152.txt	"""Russia has international support from a number of countries and people""""."
+HI_35.txt	The article is talking about urw, distrust towards media, and western media is an instrument of propaganda.
+HI_134.txt	इस लेख में जलवायु परिवर्तन के कारण मौसम में होने वाले बदलावों को लेकर चिंता जताई गई है। यह कहा गया है कि जलवायु परिवर्तन के कारण भारत में ऋतुओं में बदलाव देखा जा रहा है। सर्दी के मौसम पर यह विशेष रूप से दिख रहा है। क्लाइ
+HI_71.txt	The article is talking about ukraine-russia war, blaming the war on others rather than the invader.
+HI_19.txt	"""Hidden plots by secret schemes of powerful groups""""."
+HI_139.txt	The article is talking about cc, amplifying climate fears, and amplifying existing fears of global warming.
+HI_126.txt	यह लेख यूक्रेन-रूस युद्ध के संदर्भ में पश्चिमी देशों की नीतियों की आलोचना करता है। यह पश्चिमी देशों को रूस से दूरी बनाने के लिए भारत को प्रेरित करने के लिए उनकी नीतियों की आलोचना करता है। यह पश्चिमी
+HI_151.txt	The article is talking about urw, praise of russia, and russia has international support from a number of countries and people.
+HI_125.txt	"""Discrediting the West, Diplomacy""""."
+HI_97.txt	The article is talking about ukraine-russia war, speculating war outcomes.
+HI_143.txt	The article is talking about cc, amplifying climate fears, and amplifying existing fears of global warming.
+HI_156.txt	The article is talking about urw, amplifying war-related fears, and there is a real possibility that nuclear weapons will be employed.
+HI_75.txt	यह रिपोर्ट रूस-यूक्रेन युद्ध में शामिल भारतीय युवक प्रिंस सेबेस्टियन की आपबीती बताती है। वह रूस में एक सिक्योरिटी की नौकरी के लिए गया था, लेकिन उसे रूस-यूक्रेन युद्ध में शामिल होने के लिए मजबूर किया गया था। वह यूक्रे
+HI_5.txt	इस लेख में यूक्रेन के लिए पश्चिमी देशों द्वारा दी जाने वाली सहायता के बारे में बताया गया है। यह सहायता रूस के खिलाफ यूक्रेन की लड़ाई में मदद करने के लिए है। यह सहायता रूस के खिलाफ यूक्रेन की लड़ाई में मदद करने के लिए है। यह सहायता रूस के खिलाफ यूक्रेन की लड़ाई
+HI_154.txt	इस लेख में, रूस और यूक्रेन के बीच युद्ध के परिणामों को बढ़ा-चढ़ाकर पेश किया गया है। यह दावा किया गया है कि युद्ध के परिणामस्वरूप दुनिया तीन हिस्सों में बंट जाएगी और एक तीसरा खेमा भी होगा जिसमें भारत भी शामिल होगा
+HI_28.txt	The article is talking about ukraine-russia war, hidden plots by secret schemes of powerful groups.
+HI_107.txt	The article is talking about urw, amplifying war-related fears, and by continuing the war we risk wwiii.
+HI_159.txt	The article is talking about urw, praise of russia, and praise of russian military might.
+HI_110.txt	The article is talking about urw, amplifying war-related fears, and russia will also attack other countries.
+HI_158.txt	यह रिपोर्ट यूक्रेन को रूस के खिलाफ युद्ध के लिए जिम्मेदार ठहराती है और रूस को एक पीड़ित के रूप में प्रस्तुत करती है। यह रूस के खिलाफ यूक्रेनी हमले के बारे में भी बात करता है और रूस को यूक्रेन में घुसपैठ करने के लिए मजबूर करने के लिए यूक
+HI_140.txt	यह रिपोर्ट जलवायु परिवर्तन के कारण होने वाले नुकसान के बारे में चेतावनी देती है और यह बताती है कि
+HI_38.txt	यह रिपोर्ट रूस और भारत के बीच संबंधों को लेकर है। रिपोर्ट में रूस के राष्ट्रपति व्लादिमीर पुतिन और प्रधानमंत्री नरेंद्र मोदी के बीच संबंधों को लेकर बात की
+HI_4.txt	The article is talking about urw, praise of russia, and russia has international support from a number of countries and people.
+HI_95.txt	"""Amplifying war-related fears""""."
+HI_34.txt	"""यूक्रेन ने रूस को रोकने के लिए 10000 किलोमीटर की किलेबंदी करने की योजना बनाई है।"
