@@ -149,4 +149,5 @@ python narrative_extraction.py --train_file ./train_data_balanced.csv \
 
 ## Contact
 Team Name: telorbulat
+
 Leaderboard Position: Check our latest scores [here](https://propaganda.math.unipd.it/semeval2025task10/leaderboard.php).
