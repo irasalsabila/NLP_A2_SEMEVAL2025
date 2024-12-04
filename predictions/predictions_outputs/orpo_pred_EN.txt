@@ -1,0 +1,30 @@
+EN_UA_DEV_100012.txt	The article is talking about ukraine-russia war, discrediting the west, diplomacy, and the west does not care about ukraine, only about its interests.
+EN_CC_200040.txt	The article is talking about climate change, criticism of climate movement.
+EN_CC_200070.txt	Analyze the document and provide a detailed explanation (at least 80 words) in English showing how the narrative is reflected in the document
+EN_UA_DEV_100034.txt	The article is talking about ukraine-russia war, overpraising the west, and the west belongs in the right side of history.
+EN_CC_200049.txt	The article is talking about climate change, questioning the measurements and science.
+EN_UA_DEV_100033.txt	The article is talking about ukraine-russia war, speculating war outcomes, and russian army is collapsing.
+EN_CC_200036.txt	"""Analyze the document and provide a detailed explanation (at least 80 words) in English showing how the narrative is reflected in the document."
+EN_CC_200079.txt	The article is talking about climate change, criticism of institutions and authorities, and criticism of international entities.
+EN_UA_DEV_100029.txt	The article is talking about ukraine-russia war, speculating war outcomes, and russian army is collapsing.
+EN_UA_DEV_20.txt	The article is talking about ukraine-russia war, discrediting ukraine, and situation in ukraine is hopeless.
+EN_UA_DEV_100005.txt	The article is talking about ukraine-russia war, discrediting the west, diplomacy.
+EN_CC_200033.txt	Climate change is a serious problem that requires immediate action. The world is facing an unprecedented crisis, and we must act now to protect our planet and future generations. The climate movement is a powerful force for change, and we must continue to support it. The climate movement is a powerful force for change, and we must continue to support it. The climate movement is a powerful force for change, and we must continue to support it. The climate movement is a powerful force for change, and we must continue to support it. The climate movement is a powerful force for change, and we must continue to support it
+EN_CC_200071.txt	The article is talking about climate change, criticism of climate policies, and climate policies have negative impact on the economy.
+EN_CC_200046.txt	The article is talking about climate change, climate change is beneficial, and co2 is beneficial.
+EN_UA_DEV_100026.txt	The article is talking about ukraine-russia war, negative consequences for the west, and sanctions imposed by western countries will backfire.
+EN_UA_DEV_215.txt	Analyze the document and provide a detailed explanation (at least 80 words) in English showing how the narrative is reflected
+EN_CC_200054.txt	The article is talking about climate change, hidden plots by secret schemes of powerful groups, and climate agenda has hidden motives.
+EN_UA_DEV_100013.txt	The article is talking about ukraine-russia war, discrediting ukraine, and discrediting ukrainian government and officials and policies.
+EN_CC_200077.txt	The article is talking about climate change, criticism of climate policies, and climate policies are only for profit.
+EN_CC_200034.txt	The article is talking about climate change, criticism of climate movement, and climate movement is alarmist.
+EN_UA_DEV_213.txt	The article is talking about ukraine-russia war, blaming the war on others rather than the invader, and the west are the aggressors.
+EN_CC_200047.txt	The article is talking about climate change, hidden plots by secret schemes of powerful groups, and blaming global elites.
+EN_CC_200081.txt	The article is talking about climate change, controversy about green technologies, and renewable energy is dangerous.
+EN_UA_DEV_214.txt	The article is talking about ukraine-russia war, discrediting the west, diplomacy, and the west is weak.
+EN_CC_200064.txt	The article is talking about climate change, criticism of climate movement.
+EN_UA_DEV_22.txt	The article is talking about ukraine-russia war, discrediting the west, diplomacy, and the eu is divided.
+EN_CC_200035.txt	Analyze the document and provide a detailed explanation (at least 80 words) in English showing how the narrative is reflected in the document
+EN_CC_200069.txt	The article is talking about climate change, criticism of climate policies.
+EN_CC_200065.txt	The article is talking about climate change, criticism of climate movement, and climate movement is alarmist.
+EN_UA_DEV_100002.txt	The article is talking about ukraine-russia war, speculating war outcomes, and ukrainian army is collapsing.

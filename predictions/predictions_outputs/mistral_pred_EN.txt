@@ -1,0 +1,30 @@
+EN_UA_DEV_100012.txt	The text presents the West as a greedy entity that is only interested in Ukraine's natural resources, and not in the Ukrainian people.
+EN_CC_200040.txt	The article is talking about climate change, criticism of climate movement.
+EN_CC_200070.txt	The text criticizes the mayor of Los Angeles for flying to Argentina to attend a climate change summit, while his city is struggling with high crime and homelessness. The text also criticizes the mayor for burning fossil fuels on an international flight rather than attending remotely.<|endof
+EN_UA_DEV_100034.txt	The text presents a narrative of the West as the main actor in the conflict, which is the only one capable
+EN_CC_200049.txt	The article is talking about climate change, questioning the measurements and science.
+EN_UA_DEV_100033.txt	The text is filled with speculations about the future of the war, with the Russian army being the winner and
+EN_CC_200036.txt	The article is talking about cc, criticism of climate movement, and ad hominem attacks on key activists.
+EN_CC_200079.txt	The article is talking about cc, criticism of institutions and authorities, and criticism of international entities.
+EN_UA_DEV_100029.txt	The article is talking about urw, speculating war outcomes, and russian army is collapsing.
+EN_UA_DEV_20.txt	The text presents a negative view of the situation in Ukraine, claiming that the Ukrainian army is weak and that the West is not helping them enough. The text also claims that the West is escalating the situation by providing Ukraine with weapons and that this will lead to a
+EN_UA_DEV_100005.txt	Analyze the document and provide a detailed explanation (at least 80 words) showing how the narrative is reflected in the document.
+EN_CC_200033.txt	The text presents Greta Thunberg as a radical leftist who is not interested in solving the climate crisis but in overthrowing the capitalist system. The text also presents the climate movement as
+EN_CC_200071.txt	"""Analyze the document and provide a detailed explanation (at least 80 words) showing how the narrative is reflected in the document."
+EN_CC_200046.txt	The text presents a study that shows how CO2 is beneficial for the environment, as it increases vegetation growth and water availability in the Northern
+EN_UA_DEV_100026.txt	The text describes the negative consequences of the sanctions imposed by the West on Russia, which have led to a
+EN_UA_DEV_215.txt	The text presents several paragraphs that discredit Ukrainian government and officials and policies, by showing how they are corrupt and how
+EN_CC_200054.txt	The article is talking about cc, hidden plots by secret schemes of powerful groups, and climate agenda has hidden motives.
+EN_UA_DEV_100013.txt	The article is talking about urw, discrediting ukraine, and discrediting ukrainian government and officials and policies.
+EN_CC_200077.txt	The article is talking about cc, criticism of climate policies, and climate policies are only for profit.
+EN_CC_200034.txt	The article is talking about cc, criticism of climate movement, and climate movement is alarmist.
+EN_UA_DEV_213.txt	The text presents a narrative in which the West is the aggressor, and the US and NATO are the ones who are escalating the conflict with Russia. The text also presents the US as a declining power, and the West as a whole as being in a crisis.<
+EN_CC_200047.txt	The article is talking about cc, hidden plots by secret schemes of powerful groups, and blaming global elites.
+EN_CC_200081.txt	The article is talking about cc, controversy about green technologies, and renewable energy is dangerous.
+EN_UA_DEV_214.txt	"""The text criticizes the West for its military expansionism and its lack of diplomacy, which is reflected in the text through the use of words such as """"delusion"""", """"dementia"""", """"lunacy"""", """"messed up"""", """"misinformation"""", """"misinformation war"""", """"misinformation"""", """"misinformation"""", """"misinformation"""", """"misinformation"""", """"misinformation"""", """"misinformation"""", """"misinformation"""", """"misinformation"""", """"misinformation"""", """"misinformation"""", """"misinformation"""", """"misinformation"""", """"misinformation"""", """"misinformation"""", """"misinformation"""", """"misinformation"""", """"misinformation"""", """"misinformation"""", """"misinformation"""", """"misinformation"""", """"misinformation"""", """"misinformation"""", """"misinformation"""", """"misinformation"""", """"misinformation"""", """"misinformation"""", """"misinformation"""", """"misinformation"""", """"misinformation"""", """"misinformation"""", """"misinformation"""", """"misinformation"""", """"misinformation"""", """"misinformation"""", """"misinformation"""", """"misinformation"""", """"misinformation"""", """"misinformation"""", """"misinformation"""","""
+EN_CC_200064.txt	The article is talking about climate change, criticism of climate movement.
+EN_UA_DEV_22.txt	The article is talking about urw, discrediting the west, diplomacy, and the eu is divided.
+EN_CC_200035.txt	The text criticizes the political organization and figures of the Democratic Party, accusing them of being corrupt and of having ties with the Chinese Communist Party.<|endoftext
+EN_CC_200069.txt	The article is talking about climate change, criticism of climate policies.
+EN_CC_200065.txt	Analyze the document and provide a detailed explanation (at least 80 words) showing how the narrative is reflected in the document.
+EN_UA_DEV_100002.txt	The article is talking about urw, speculating war outcomes, and ukrainian army is collapsing.

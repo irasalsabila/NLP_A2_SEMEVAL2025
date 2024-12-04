@@ -1,0 +1,30 @@
+EN_UA_DEV_100012.txt	"""The West does not care about Ukraine, only about its interests""""."
+EN_CC_200040.txt	"""Criticism of climate movement""""."
+EN_CC_200070.txt	The article is talking about climate change, criticism of institutions and authorities, and criticism of political organizations and figures.
+EN_UA_DEV_100034.txt	"""The West belongs in the right side of history""""."
+EN_CC_200049.txt	The article is talking about climate change, questioning the measurements and science.
+EN_UA_DEV_100033.txt	"""Russian army is collapsing"""". The main task of the document is to provide evidence showing that the main narrative is relevant to the document.<|end_of_text|>"""
+EN_CC_200036.txt	The article is talking about climate change, criticism of climate movement, and ad hominem attacks on key activists.
+EN_CC_200079.txt	The main purpose of the document is to provide evidence on why climate change is a hoax. The main argument is that climate change is a hoax because of the criticism of institutions and authorities. The main task of the document is to show that climate change is a hoax by providing evidence on why climate change is a hoax.<|end_of_text|>
+EN_UA_DEV_100029.txt	The article is talking about ukraine-russia war, speculating war outcomes, and russian army is collapsing.
+EN_UA_DEV_20.txt	"""Situation in Ukraine is hopeless"""" is to portray Ukraine as a hopeless country that is unable to defend itself against Russia's invasion. The main argument is that Ukraine is a weak country that cannot defend itself against Russia's invasion and that the situation in Ukraine is hopeless. The main narrative seeks to discredit Ukraine by portraying it as a weak country that cannot defend itself against Russia's invasion.<|end_of_text|>"""
+EN_UA_DEV_100005.txt	The article is talking about ukraine-russia war, discrediting the west, diplomacy.
+EN_CC_200033.txt	"""Criticism of climate movement""""."
+EN_CC_200071.txt	"""Climate policies have negative impact on the economy"""" is to highlight that climate policies have negative economic impacts. The author of the document argues that climate policies are causing economic harm by increasing energy prices, making housing unaffordable, and reducing the availability of affordable energy sources. The main argument is that climate policies are not effective in reducing greenhouse gas emissions and are instead causing economic harm.<|end_of_text|>"""
+EN_CC_200046.txt	The article is talking about climate change, climate change is beneficial, and co2 is beneficial.
+EN_UA_DEV_100026.txt	"""Sanctions imposed by Western countries will backfire"""". The main task of the document is to provide evidence showing that sanctions imposed by Western countries will back"""
+EN_UA_DEV_215.txt	"""Discrediting Ukrainian government and officials and policies""""."
+EN_CC_200054.txt	"""Climate agenda is a cover for other agendas""""."
+EN_UA_DEV_100013.txt	"""Discrediting Ukrainian government and officials and policies""""."
+EN_CC_200077.txt	"""Climate policies are only for profit"""" is to portray climate policies as being primarily motivated by profit rather than by environmental concerns. The main narrative seeks to discredit climate policies by showing that they are primarily motivated by profit rather than by environmental concerns. The main narrative suggests that climate policies are primarily motivated by profit rather than by environmental concerns. The main narrative provides evidence showing that climate policies are primarily motivated by profit rather than by environmental concerns. The main narrative suggests that climate policies are primarily motivated by profit rather than by environmental concerns. The"""
+EN_CC_200034.txt	"""Climate movement is alarmist"""". The main task of the document is to provide evidence showing that the main narrative is reflected in the document.<|end_of_text|>"""
+EN_UA_DEV_213.txt	The article is talking about ukraine-russia war, blaming the war on others rather than the invader, and the west are the aggressors.
+EN_CC_200047.txt	The article is talking about climate change, hidden plots by secret schemes of powerful groups, and blaming global elites.
+EN_CC_200081.txt	The article is talking about climate change, controversy about green technologies, and renewable energy is dangerous.
+EN_UA_DEV_214.txt	"""The West is weak"""". The main argument of the document is that the West is weak and unable to deal with Russia"""
+EN_CC_200064.txt	"""Climate change is a hoax""""."
+EN_UA_DEV_22.txt	"""The EU is divided""""."
+EN_CC_200035.txt	"""Criticism of political organizations and figures"""" is to highlight the criticism of climate policies and institutions as ineffective and harmful to the environment."
+EN_CC_200069.txt	"""Criticism of climate policies"""". The primary objective of the document is to provide evidence showing that climate change is a hoax. The main argument is that climate change is not a serious threat and that climate policies are ineffective and harmful. The main tactic is to use factual evidence to show that climate change is not a serious threat and that climate policies are ineffective and harmful.<|end_of_text|>"""
+EN_CC_200065.txt	Climate change is a serious threat to the planet, and it's not just about the environment. It's about the future of humanity. Climate change is a serious threat to the planet, and it's not just about the environment. It's about the future of humanity. Climate change is a serious threat to the planet, and it's not just about the environment. It's about the future of humanity. Climate change is a serious threat to the planet, and it's not just about the environment. It's about the future of humanity. Climate change is a serious threat to the planet, and it's
+EN_UA_DEV_100002.txt	The article is talking about ukraine-russia war, speculating war outcomes, and ukrainian army is collapsing.

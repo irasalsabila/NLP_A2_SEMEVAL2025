@@ -1,0 +1,25 @@
+PT_208.txt	The article is talking about climate change, amplifying climate fears.
+PT_216.txt	O texto critica o projeto de lei 412/2022, que regulamenta o mercado de carbono no Brasil, por não considerar a diferença entre a gestão de resíduos e a poluição.
+PT_233.txt	O texto refere-se a vários eventos climáticos extremos que ocorreram em 2023, como a seca no Amazonas, a temperatura máxima de julho e o inverno rigoroso.
+PT_259.txt	"""O text refere-se a Zelensky como um """"homem que pode distorcer tudo, que pode mentir, que pode abandonar tudo"""", e que continua a massacrar cidadãos ucranianos."""
+PT_220.txt	The article is talking about cc, amplifying climate fears, and amplifying existing fears of global warming.
+PT_254.txt	O texto refere-se à guerra entre a Ucrânia e a Rússia, destacando a importância da substituição de importações de software estrangeiro, especialmente em instalações críticas de infraestruturas de informação.
+PT_211.txt	O estudo mostra que o aumento das temperaturas globais pode levar a mais mortes relacionadas com o calor, reduzir a produtividade e resultar num menor rendimento das culturas, no aumento da migração e na propagação de doenças infecciosas.
+PT_250.txt	O executivo russo Igor Sechin afirma que a Rússia tem apoio internacional, nomeadamente da China, que é o principal comprador de petróleo russo.
+PT_224.txt	O texto critica o governo brasileiro por não ter tomado medidas para proteger o Pantanal, um dos biomas mais importantes do planeta. O texto também critica o governo por não ter tomado medidas para proteger a população de doenças causadas pelo aumento da temperatura.
+PT_228.txt	O texto refere-se às consequências do aquecimento global, como a perda do Pantanal, e à necessidade de alargar os esforços para combater as alterações climáticas.
+PT_253.txt	O texto refere-se à utilização dos bens congelados da Rússia para financiar a Ucrânia, o que é considerado por Putin como um roubo.
+PT_232.txt	O texto refere-se ao calor extremo e às altas temperaturas, que são preocupações relacionadas com o clima e o aquecimento global.
+PT_206.txt	O texto refere-se às alterações climáticas e às suas consequências, como a perda de biodiversidade e a crise de recursos naturais.
+PT_249.txt	O porta-voz do Kremlin, Dmitry Peskov, afirma que a Rússia está aberta a qualquer iniciativa voltada para encerrar o conflito ucraniano por meios diplomáticos, mas não vê reciprocidade por parte de Kiev.
+PT_205.txt	O estudo mostra que as ondas de calor podem agravar a epilepsia, o que amplifica a preocupação com o aumento das temperaturas globais.
+PT_230.txt	O artigo refere-se a um aviso do INMET sobre uma onda de calor no Brasil, que pode causar riscos à saúde. O texto refere-se a um cenário de alterações climáticas que provocam eventos extremos em todo o território nacional.
+PT_244.txt	A TASS afirma que a organização dos Jogos Olímpicos de Paris retirou a credencial a quatro jornalistas russos, depois de os comunicadores terem assistido às primeiras competições.
+PT_213.txt	O texto critica a presença da Braskem na COP28, que é uma empresa que explora os recursos naturais, causando danos estruturais e geológicos.
+PT_226.txt	O texto refere-se às alterações climáticas e às consequências que estas podem ter para a população e para o ambiente.
+PT_221.txt	O relatório alerta que a falta de preparação das empresas cafeeiras para a lei pode levá-las a mudar o fornecimento para regiões mais desenvolvidas, como o Brasil, que têm melhor rastreabilidade, deixando os milhões de agricultores, na sua maioria de pequena escala, atingidos pela pobreza.
+PT_234.txt	O estudo mostra que a Amazónia pode chegar ao ponto de não retorno até 2050, o que pode acelerar a perda de florestas e ameaçar o clima.
+PT_207.txt	O senador Zequinha critica a UE por adiar a obrigatoriedade de preservação ambiental e por exigir que os produtos brasileiros comprovem a sua origem.
+PT_217.txt	O artigo explica o fenómeno do domo de calor e como as alterações climáticas provocadas pelo homem têm aumentado a frequência e a intensidade destes eventos.
+PT_229.txt	O texto refere-se à seca severa que afectou o Panamá, que é um dos países mais afectados pelas alterações climáticas.
+PT_225.txt	The article is talking about cc, criticism of institutions and authorities, and criticism of political organizations and figures.

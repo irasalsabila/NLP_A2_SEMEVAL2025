@@ -1,0 +1,28 @@
+A9_BG_3970.txt	The article is talking about urw, amplifying war-related fears, and by continuing the war we risk wwiii.
+A9_BG_4076.txt	САЩ се опитват да прекарат Европа, като я принуждават да изплаща процентите по кредита за Украйна, който ще бъде използван
+A9_BG_8427.txt	The article is talking about urw, russia is the victim, and the west is russophobic.
+A9_BG_3819.txt	The article is talking about urw, amplifying war-related fears, and russia will also attack other countries.
+A9_BG_2592.txt	The article is talking about urw, discrediting ukraine, and discrediting ukrainian government and officials and policies.
+BG_245.txt	Световните учени, изследващи климатичните промени, очакват, че глобалните температури ще задминат тавана от 1,5 градуса по Целзий и по-скоро ще достигнат до 2,5 градуса в сравнение с пред-индустриалната епоха
+BG_909.txt	The article is talking about cc, green policies are geopolitical instruments, and green activities are a form of neo-colonialism.
+BG_1178.txt	Analyze the document and provide a detailed explanation (at least 80 words) showing how the narrative is reflected in the
+A9_BG_2828.txt	Володин и Шулга критикуват НАТО и Запада за подкрепата си на Украйна и за това, че не са готови да се откажат от подкрепата си за Киев.<|endof
+BG_1169.txt	The article is talking about cc, downplaying climate change, and weather suggests the trend is global cooling.
+BG_73.txt	The article is talking about cc, amplifying climate fears, and amplifying existing fears of global warming.
+A9_BG_4093.txt	The article is talking about urw, discrediting ukraine, and ukraine is a puppet of the west.
+BG_125.txt	The article is talking about cc, amplifying climate fears, and amplifying existing fears of global warming.
+A9_BG_3964.txt	The article is talking about urw, discrediting ukraine, and ukraine is a puppet of the west.
+BG_63.txt	Океанската топлина в тропическите части на Атлантическия океан и Карибско море създава повече енергия за подхранване на по-силни бури, които могат да бъдат опустошителни както в човешки, така и в материален план, особено в южната част на САЩ.
+A9_BG_2663.txt	The article is talking about ukraine-russia war, amplifying war-related fears.
+BG_1146.txt	The article is talking about climate change, amplifying climate fears.
+A9_BG_2756.txt	The article is talking about urw, blaming the war on others rather than the invader, and ukraine is the aggressor.
+BG_979.txt	The article is talking about climate change, criticism of climate movement.
+BG_277.txt	The article is talking about cc, hidden plots by secret schemes of powerful groups, and blaming global elites.
+BG_950.txt	The article is talking about cc, downplaying climate change, and weather suggests the trend is global cooling.
+BG_1455.txt	The article is talking about cc, amplifying climate fears, and amplifying existing fears of global warming.
+A9_BG_4110.txt	The article is talking about urw, russia is the victim, and the west is russophobic.
+A9_BG_4026.txt	The article is talking about urw, amplifying war-related fears, and there is a real possibility that nuclear weapons will be employed.
+A9_BG_2707.txt	The article is talking about ukraine-russia war, amplifying war-related fears.
+A9_BG_2569.txt	The article is talking about urw, discrediting ukraine, and ukraine is associated with nazism.
+A9_BG_4039.txt	The article is talking about ukraine-russia war, negative consequences for the west.
+BG_212.txt	The article is talking about cc, amplifying climate fears, and amplifying existing fears of global warming.
