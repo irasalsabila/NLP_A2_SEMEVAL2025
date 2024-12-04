@@ -1,6 +1,6 @@
 # Narrative Extraction for SemEval 2025
 
-This repository contains the implementation, models, and predictions for the **Narrative Extraction Task** for SemEval 2025 Task 10. Our team, **telorbulat**, is listed on the [SemEval 2025 Leaderboard](https://propaganda.math.unipd.it/semeval2025task10/leaderboard.php).
+This repository contains the implementation, models, and predictions for the **Narrative Extraction Task** for SemEval 2025 Task 10. My team, **telorbulat**, is listed on the [SemEval 2025 Leaderboard](https://propaganda.math.unipd.it/semeval2025task10/leaderboard.php).
 
 ---
 
